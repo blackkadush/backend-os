@@ -1,0 +1,23 @@
+{
+  "name": "backend-os",
+  "version": "1.0.0",
+  "description": "Backend Ocean Sustainability",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nikan",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "emailjs": "^3.4.0",
+    "express": "^4.16.3",
+    "helmet": "^3.12.1",
+    "jsonwebtoken": "^8.2.1",
+    "morgan": "^1.9.0",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^1.19.0",
+    "pg-promise": "^10.10.2"
+  }
+}
