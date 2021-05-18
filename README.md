@@ -1,6 +1,6 @@
 # backend-os
 
-##how to run
+## how to run
 
 1. Download the file into the computer
 2. Use the terminal or i-term to navigato the the location
